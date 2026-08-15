@@ -1,0 +1,8 @@
+Target,Method,Range (low-high),In-range rows,Out-of-range rows,In-range R²,Full-dataset R² (reference)
+Density_ppg,API RP 13B-1 range,8.65 - 19.00,59,1,0.734,
+PV_cP,API RP 13B-1 range,1.00 - 65.00,42,0,0.658,
+YP_lb100ft2,API RP 13B-1 range,3.00 - 60.00,28,9,-0.27,
+Gel_10s,Statistical range (mean ± 2 std),-14.60 - 36.03,35,3,-2.052,
+Gel_10min,Statistical range (mean ± 2 std),-15.73 - 46.08,32,1,0.536,
+Fluid_Loss_mL,API RP 13B-1 range,0.00 - 15.00,16,3,-7.763,
+Mud_Cake_mm,Statistical range (mean ± 2 std),0.13 - 3.39,26,1,-0.115,

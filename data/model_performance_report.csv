@@ -1,0 +1,8 @@
+Target,Rows used,R² (mean),R² (std dev),MAE (mean),Confidence
+Density_ppg,60,0.739,0.187,0.212,High
+PV_cP,42,0.658,0.212,3.056,High
+YP_lb100ft2,37,0.659,0.344,7.857,Moderate
+Gel_10s,38,0.728,0.151,3.607,Moderate
+Gel_10min,33,0.777,0.227,3.989,Moderate
+Fluid_Loss_mL,19,0.464,0.948,1.865,Moderate
+Mud_Cake_mm,27,-0.018,0.751,0.476,Low (poor fit)
